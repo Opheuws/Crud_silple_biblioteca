@@ -1,0 +1,5 @@
+DB_ENV="example_name"
+
+DB_DATABASE="name_banc_example"
+DB_PASS= "pasword_example"
+DB_HOST="host_example"
